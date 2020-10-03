@@ -291,8 +291,8 @@ build_docs() {
       --clean \
       --author Realm \
       --author_url https://realm.io \
-      --github_url https://github.com/realm/realm-cocoa \
-      --github-file-prefix https://github.com/realm/realm-cocoa/tree/v${version} \
+      --github_url https://github.com/hyouuu/realm-cocoa \
+      --github-file-prefix https://github.com/hyouuu/realm-cocoa/tree/v${version} \
       --module-version ${version} \
       --xcodebuild-arguments ${xcodebuild_arguments} \
       --module ${module} \
